@@ -1,7 +1,7 @@
 ---
 id: first_multiplayer_game
 name: My First Multiplayer Game
-title: My First Multiplayer Game
+title: The Predator 
 tags:
     - Tutorial
 ---
